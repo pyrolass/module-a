@@ -1,3 +1,0 @@
-[submodule "module-b"]
-	path = module-b
-	url = https://github.com/pyrolass/module-b.git
